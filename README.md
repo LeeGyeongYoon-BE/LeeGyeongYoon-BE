@@ -43,7 +43,7 @@
 ### 📘 Book That Inspired Me
 
 <div align="center">
-  <img src="https://image.yes24.com/goods/74219416/XL" alt="Atomic Habits" width="200px"/>
+  <img src="https://image.yes24.com/goods/74219416/XL" alt="Atomic Habits" width="200px"](https://covers.openlibrary.org/b/isbn/9780735211292-L.jpg" alt="Atomic Habits cover" width="200px")/>
 
   <br/><br/>
 
