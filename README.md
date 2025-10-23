@@ -1,6 +1,6 @@
 ## Introduce...
 
-![네이버블로그](https://blog.naver.com/jack3614)
+[네이버블로그](https://blog.naver.com/jack3614-green)
 
 ### :octocat: 안녕하세요? 이경윤입니다! 🐶
 
