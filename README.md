@@ -40,7 +40,7 @@
 ### 📘 인상 깊은 책
 
 <div align="center">
-  <img src="[./assets/atomic_habits.jpg](https://product.kyobobook.co.kr/detail/S000001813652)" alt="아주 작은 습관의 힘" width="200px"/>
+  <img src="[[./assets/atomic_habits.jpg](https://product.kyobobook.co.kr/detail/S000001813652)](https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791162540640.jpg)" alt="아주 작은 습관의 힘" width="200px"/>
   <br/><br/>
   **『아주 작은 습관의 힘』 – 제임스 클리어 저**
 </div>
