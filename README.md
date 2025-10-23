@@ -44,7 +44,7 @@
 ### 📘 Book That Inspired Me
 
 <div align="center">
-  <img src="https://images-na.ssl-images-amazon.com/images/I/51-nXsSRfZL._SX329_BO1,204,203,200_.jpg" alt="Atomic Habits cover" width="200px")/>
+  <img src="https://image.yes24.com/goods/74219416/XL" alt="아주 작은 습관의 힘" width="200px"/>
 
   <br/><br/>
 
