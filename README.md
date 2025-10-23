@@ -26,14 +26,6 @@
 <a href="https://blog.naver.com/jack3614" target="_blank">
   <img src="https://img.shields.io/badge/Naver%20Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white" alt="Naver Blog"/>
 </a>  
-<br/>
-<a href="https://www.acmicpc.net/user/jack36140" target="_blank">
-  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=jack36140" alt="Baekjoon Profile"/>
-</a>  
-<br/>
-<a href="https://www.samsunglions.com/index.asp" target="_blank">
-  <img src="https://img.shields.io/badge/Samsung%20Lions-005BAC?style=for-the-badge&logoColor=white" alt="Samsung Lions"/>
-</a>
 
 </div>
 
@@ -48,7 +40,7 @@
 ### 📘 인상 깊은 책
 
 <div align="center">
-  <img src="./assets/atomic_habits.jpg" alt="아주 작은 습관의 힘" width="200px"/>
+  <img src="[./assets/atomic_habits.jpg](https://product.kyobobook.co.kr/detail/S000001813652)" alt="아주 작은 습관의 힘" width="200px"/>
   <br/><br/>
   **『아주 작은 습관의 힘』 – 제임스 클리어 저**
 </div>
