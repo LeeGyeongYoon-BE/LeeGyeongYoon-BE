@@ -3,8 +3,7 @@
 안녕하세요! 백엔드 개발자를 꿈꾸며 꾸준히 성장 중인 **이경윤**입니다 😊  
 
 💻 **Backend Developer in the making**  
-<img src="https://img.icons8.com/color/48/baseball--v1.png" width="22px" style="vertical-align: middle;"/>  
-**Samsung Lions** <span style="color:#005BAC;">Fan</span> 💙  
+<img src="https://img.icons8.com/color/48/baseball--v1.png" width="22px" style="vertical-align: middle;"/> **Samsung Lions** <span style="color:#005BAC;">Fan</span> 💙  
 🌱 RESTful API 설계와 서버 아키텍처에 관심이 많아요.  
 매일 한 걸음씩, 꾸준히 성장하는 개발자가 되기 위해 노력하고 있습니다.  
 
@@ -31,10 +30,6 @@
 <a href="https://www.acmicpc.net/user/jack36140" target="_blank">
   <img src="https://img.shields.io/badge/Baekjoon-0056D6?style=for-the-badge&logo=TheAlgorithms&logoColor=white" alt="Baekjoon Profile"/>
 </a>  
-<br/>
-<a href="https://www.samsunglions.com/index.asp" target="_blank">
-  <img src="https://img.shields.io/badge/Samsung%20Lions-005BAC?style=for-the-badge&logoColor=white" alt="Samsung Lions"/>
-</a>
 
 </div>
 
