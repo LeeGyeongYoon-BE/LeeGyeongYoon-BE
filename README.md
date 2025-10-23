@@ -29,7 +29,8 @@
 <br>
 <a href="https://www.acmicpc.net/user/jack36140" target="_blank">
   <img src="https://img.shields.io/badge/Baekjoon-0056D6?style=for-the-badge&logo=TheAlgorithms&logoColor=white" alt="Baekjoon Profile"/>
-</a>  
+</a>
+
 
 </div>
 
@@ -43,7 +44,7 @@
 ### 📘 Book That Inspired Me
 
 <div align="center">
-  <img src="https://images-na.ssl-images-amazon.com/images/I/51-nXsSRfZL._SX329_BO1,204,203,200_.jpg" alt="Atomic Habits cover" width="200px"/>
+  <img src="https://images-na.ssl-images-amazon.com/images/I/51-nXsSRfZL._SX329_BO1,204,203,200_.jpg" alt="Atomic Habits cover" width="200px")/>
 
   <br/><br/>
 
