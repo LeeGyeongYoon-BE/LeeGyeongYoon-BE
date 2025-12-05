@@ -4,7 +4,7 @@
 
 💻 **Backend Developer in the making**  
 ⚾ **Samsung Lions** Fan 💙  
-🌱 RESTful API 설계와 서버 아키텍처에 관심이 많아요.  
+🌱 금융권 백엔드 개발과 결제 시스템에 관심이 많아요.  
 매일 한 걸음씩, 꾸준히 성장하는 개발자가 되기 위해 노력하고 있습니다.
 
 ---
