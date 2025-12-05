@@ -21,7 +21,7 @@
 
 ### 🔗 My Links
 
-<div align="center">
+<div>
 
 <a href="https://blog.naver.com/jack3614" target="_blank">
   <img src="https://img.shields.io/badge/Naver%20Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white" alt="Naver Blog"/>
