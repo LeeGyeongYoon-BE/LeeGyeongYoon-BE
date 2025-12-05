@@ -14,7 +14,7 @@
 | 구분 | 기관명 | 기간 |
 |------|--------|------|
 | 대학교 | 인하대학교 통계학과 | 2019.03 ~ 2026.02 |
-| 국비교육 | 패스트캠퍼스 국비지원 Java & Spring 과정 | 2025.01 ~ 20X25.03  |
+| 국비교육 | 패스트캠퍼스 국비지원 Java & Spring 과정 | 2025.01 ~ 2025.03  |
 | 부트캠프 | LG U+ 유레카 백엔드 대면반(5회차) | 2025.08 ~ 2026.03  |
 
 ---
@@ -36,6 +36,14 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=Postman&logoColor=white)
+
+---
+
+### 🚀 Projects
+
+| 프로젝트명 | 기간 | 주요 기능 | 담당 업무 |
+|------------|------|-----------|----------------|
+| 점심 메이트 | 2025 | 선착순 인원 모집, 커뮤니티, 결제 | 결제 시스템 구축 및 API 연동 |
 
 ---
 
